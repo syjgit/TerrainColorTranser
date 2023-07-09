@@ -1,4 +1,4 @@
-# TerrainColorTranser
+# TerrainColorTransfer
 **Adaptive color transfer from images to terrain visualizations**
 
 Mingguang Wu, Yanjie Sun, and Shangjing Jiang
